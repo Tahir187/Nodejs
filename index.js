@@ -1,8 +1,7 @@
 const names = require('./global')
 const intro = require('./modules')
 const data = require("./alternativeFlavor");
-require("./mindGernade");
-
+// require("./mindGernade");
 // console.log(names);
 // intro("Tahir");
 // intro(names.asad);
